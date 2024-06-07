@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nikita2/static/css/main.33e9be3e.css",
+    "main.js": "/nikita2/static/js/main.d1fa49a6.js",
+    "index.html": "/nikita2/index.html",
+    "main.33e9be3e.css.map": "/nikita2/static/css/main.33e9be3e.css.map",
+    "main.d1fa49a6.js.map": "/nikita2/static/js/main.d1fa49a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33e9be3e.css",
+    "static/js/main.d1fa49a6.js"
+  ]
+}
